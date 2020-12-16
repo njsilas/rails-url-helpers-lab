@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20201216225917_add_boolean_to_students.rb
